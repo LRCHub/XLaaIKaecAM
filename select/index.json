@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "こたえあわせ",
+  "base_artist": "大森元貴",
+  "createdAt": "2026-03-06T05:39:21.685937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こたえあわせ",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/01_こたえあわせ_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こたえあわせ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/02_こたえあわせ_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こたえあわせ",
+      "artist": "大森元貴",
+      "has_synced": true,
+      "path": "select/03_こたえあわせ_大森元貴.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こたえあわせ",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_こたえあわせ_大森元貴.txt"
+    }
+  ]
+}
